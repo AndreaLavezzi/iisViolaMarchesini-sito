@@ -1,0 +1,117 @@
+/* @media only screen AND (max-width: 736px) { 
+  .desktop-only {
+    display: none;
+  }
+}
+@media only screen AND (min-width: 736px) { 
+  .mobile-only {
+    display: none;
+  }
+}   */
+
+*#containerIntestazione{
+  background: rgb(0,153,255);
+  background: linear-gradient(0deg, rgba(0,153,255,1) 0%, rgba(34,34,89,1) 100%);
+}
+*#containerIntestazione img{
+  margin-top: 32px;
+}
+*#intestazione{
+  padding: 64px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+*#navbar, #navbar ul{
+  background: rgb(34,34,89);
+}
+*#navbar li a, #navbar a{
+  font-size: 14px;
+  color: white;
+}
+*#up-line{
+  background-color: white;
+}
+*#tipo-scuola{
+  color: #808080;
+  font-size: 20px;
+}
+*#nome-scuola{
+  font-size: 28px; 
+  margin-top: -0.8em;
+  color: black;
+}
+*#nome-scuola-mobile{
+  font-size: 14px; 
+  color: white;
+  text-align: center;
+}
+*#dati-scuola {
+  margin-top: -1em;
+  font-size: 13px; 
+  color: #808080;
+}
+*#logo-repubblica{
+  float: left; 
+  margin-top: 17px;
+}
+*#certiquality{
+  float: right;
+  margin-top: 10px;
+}
+*#blocco{
+  background-color: #f2f2f2;
+  margin-top: 1em;
+  padding:15px;
+}
+*#blocco-immagine{
+  text-align: center;
+}
+h1{
+  color: #3377BB;
+  font-size: 24px;
+}
+h2{
+  color: #3377BB;
+  font-size: 24px;
+  margin: 0 0 15px 0;
+}
+h3{
+  color: #3377BB;
+  font-size: 18px;
+  margin: 0 0 15px 0;
+}
+*#blog{
+  padding:15px;
+}
+*#testo{
+  color: #444444;
+  font-size: 12px;
+  margin: 15px 0;
+}
+*#immagine{
+  max-width: 100%;
+}
+*#plessi{
+  color: rgb(0, 136, 204);
+  font-size: 12px;
+  margin-top: -0.9em;
+}
+*#indirizzi{
+  color: #0088CC;
+  font-size: 14px;
+  margin-top: -0.9em;
+}
+*#Risorse{
+  color: rgb(0, 136, 204);
+  font-size: 12px;
+  margin-top: 0.5em;
+}
+*#Fine-pagina{
+  margin-top: 1em;
+  font-size: 11px; 
+  text-align: center;
+  color: #B2B2B2;
+}
+a{
+  text-decoration:none;
+}
