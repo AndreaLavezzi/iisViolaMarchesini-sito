@@ -1,13 +1,26 @@
-/* @media only screen AND (max-width: 736px) { 
-  .desktop-only {
-    display: none;
+@media only screen AND (min-width: 736px) { 
+  *.informazioni{
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: white;
   }
 }
+.h-divider{
+  margin-top:5px;
+  margin-bottom:5px;
+  height:1px;
+  width:100%;
+  border-top:1px solid gray;
+ }
+/*
 @media only screen AND (min-width: 736px) { 
   .mobile-only {
     display: none;
   }
 }   */
+body{
+  background-color: #e9dede;
+}
 
 *#containerIntestazione{
   background: rgb(0,153,255);
