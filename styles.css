@@ -11,22 +11,17 @@
   height:1px;
   width:100%;
   border-top:1px solid gray;
- }
-/*
-@media only screen AND (min-width: 736px) { 
-  .mobile-only {
-    display: none;
-  }
-}   */
+}
+
 body{
   background-color: #e9dede;
 }
 
-*#containerIntestazione{
+*#container-intestazione{
   background: rgb(0,153,255);
   background: linear-gradient(0deg, rgba(0,153,255,1) 0%, rgba(34,34,89,1) 100%);
 }
-*#containerIntestazione img{
+*#container-intestazione img{
   margin-top: 32px;
 }
 *#intestazione{
@@ -114,12 +109,12 @@ h3{
   font-size: 14px;
   margin-top: -0.9em;
 }
-*#Risorse{
+*#risorse-ddi{
   color: rgb(0, 136, 204);
   font-size: 12px;
   margin-top: 0.5em;
 }
-*#Fine-pagina{
+*#pie-di-pagina{
   margin-top: 1em;
   font-size: 11px; 
   text-align: center;
