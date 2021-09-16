@@ -36,7 +36,7 @@ body{
   font-size: 14px;
   color: white;
 }
-*#up-line{
+*#contatti-top{
   background-color: white;
 }
 *#tipo-scuola{
@@ -66,7 +66,7 @@ body{
   float: right;
   margin-top: 10px;
 }
-*#blocco{
+*#paragrafo{
   background-color: #f2f2f2;
   margin-top: 1em;
   padding:15px;
@@ -88,7 +88,7 @@ h3{
   font-size: 18px;
   margin: 0 0 15px 0;
 }
-*#blog{
+*#in-evidenza{
   padding:15px;
 }
 *#testo{
